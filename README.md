@@ -26,4 +26,4 @@ Contributions are welcome! Here's how you can help:
 6. **Open** a pull request
 
 
-## Catch up the associcated Blog: 
+## Catch up the associcated Blog: https://medium.com/@devopswithyoge/decoding-databricks-mcp-servers-3871668269f4
